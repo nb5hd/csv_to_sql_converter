@@ -1,7 +1,0 @@
-# DATABASE CONFIGURATIONS
-
-DATA_FILE: sample_data_correct.csv
-DATABASE: postgresql
-HOST: localhost
-PORT: 5432
-TABLE_NAME: test
